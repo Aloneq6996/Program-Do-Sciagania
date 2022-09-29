@@ -1,0 +1,18 @@
+.btn {
+    border: none;
+    background: gray;
+    color: white;
+    cursor: pointer;
+    margin-top: 20px;
+    width: 65px;
+    height: 65px;
+    font-size: 25px;
+
+}
+.btn:hover {
+    background: darkgray;
+}
+li {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
